@@ -20,8 +20,8 @@ h1 {
 p {
     color: #000;
     font-family: Helvetica;
-    font-size: 12px;
-    line-height: 20px;
+    font-size: 15px;
+    line-height: 25px;
     margin-bottom: 15px;
     -webkit-font-smoothing: antialiased; 
 }
@@ -37,7 +37,7 @@ a:hover {
 #container {
     width: 30%;
     min-width: 360px;
-    max-width: 360px;
+    max-width: 450px;
     overflow: visible;
     margin-top: 65px;
     margin-left: 45px;
