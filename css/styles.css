@@ -39,7 +39,7 @@ a:hover {
     max-width: 450px;
     overflow: visible;
     margin-top: 65px;
-    margin-left: 45px;
+    margin-left: auto;
     margin-right: auto;
 }
 #container p a {
