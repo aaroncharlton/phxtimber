@@ -43,8 +43,6 @@ a:hover {
     margin-right: auto;
     background-color: #e4dece;
     padding: 50px;
-    /* -webkit-box-shadow: 0 10px 6px -6px #777; */
-    -moz-box-shadow: 0 10px 6px -6px #777;
     box-shadow: 0 10px 6px -6px #777;
 }
 #container p a {
@@ -75,5 +73,6 @@ a:hover {
     max-width: 290px;
     padding: 0;
     background-color:inherit;
+    box-shadow: inherit;
   }
 }
