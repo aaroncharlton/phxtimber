@@ -26,12 +26,12 @@ p {
     -webkit-font-smoothing: antialiased; 
 }
 a {
-    color: #000;
+    color: #0093d8;
     text-decoration: none;
 }
 a:hover {
-    color: #6a6540;
-    border-bottom: 1px solid #6a6540;
+    color: #00a2ee;
+    border-bottom: 1px solid #00a2ee;
 }
 #container {
     width: 30%;
