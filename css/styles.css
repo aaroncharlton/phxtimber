@@ -1,7 +1,7 @@
 html {
-    background-image: url("https://images.unsplash.com/photo-1528731708534-816fe59f90cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-image: url("https://images.unsplash.com/photo-1579492450119-80542d516179?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
     background-color: #fff;
-    background-position: bottom left;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -38,12 +38,12 @@ a:hover {
     min-width: 360px;
     max-width: 450px;
     overflow: visible;
-    margin-top: 65px;
+    height: 100vh;
     margin-left: auto;
     margin-right: auto;
     background-color: #e4dece;
     padding: 50px;
-    box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 12px 0 15px -4px rgb(132 132 132 / 80%), -12px 0 8px -4px rgb(130 130 130 / 80%);
 }
 #container p a {
     font-weight: bold;
@@ -72,7 +72,6 @@ a:hover {
     min-width: 290px;
     max-width: 290px;
     padding: 0;
-    background-color:inherit;
     box-shadow: inherit;
   }
 }
