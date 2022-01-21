@@ -53,6 +53,7 @@ a:hover {
     background-position: 10% 0;
     background-color: #fff;
     background-attachment: scroll;
+    background-image: inherit;
   }
   h1 {
     font-size: 40px;
@@ -73,5 +74,6 @@ a:hover {
     max-width: 290px;
     padding: 0;
     box-shadow: inherit;
+    background-color: inherit;
   }
 }
