@@ -35,10 +35,9 @@ a:hover {
 }
 #container {
     width: 30%;
-    min-width: 360px;
+    min-width: 290px;
     max-width: 450px;
     overflow: visible;
-    height: 100vh;
     margin-left: auto;
     margin-right: auto;
     background-color: #f1f2f0d1;
