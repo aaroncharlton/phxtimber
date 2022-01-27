@@ -1,5 +1,5 @@
 # aaroncharlton.github.io
-This is my site. It is hosted at <a href="https://aaroncharlton.com/">aaroncharlton.com</a>. My goal was to simplify. Now I mainly link to all my projects and just have a one-page site. Note that I also have a 404 page but it's pretty basic too.
+This is my site. It is hosted at <a href="https://aaroncharlton.com/">aaroncharlton.com</a>. My goal was to simplify. Now I mainly link to all my projects and just have a one-page site. Note that I also have a 404 page but it's pretty basic too. See <a href="https://pages.github.com/">github pages</a> for more info. 
 ### Skins
 There are multiple skins. To change out the skin you can swap out the skin css file in between the <head></head> tags in the HTML of both index.html and 404.html. 
 For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray.css">``` with ```<link rel="stylesheet" href="css/skins/red.css">```
