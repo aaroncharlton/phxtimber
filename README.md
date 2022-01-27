@@ -1,5 +1,9 @@
 # aaroncharlton.github.io
-This simple, one-page website is hosted at <a href="https://aaroncharlton.com/">aaroncharlton.com</a>. If you want a basic one-page website also, you are free to use my code. After you copy the site content to your github account you can edit the text of your homepage in the index.html file. See <a href="https://pages.github.com/">github pages</a> for more info. 
+This simple, one-page website is hosted at <a href="https://aaroncharlton.com/">aaroncharlton.com</a>. If you want a basic one-page website also, you are free to use my code. 
+### Steps to copy the site
+1. Copy the repository over to your Github account. See <a href="https://pages.github.com/">github pages</a> for more info.  
+2. Delete my cname file or change it to your custom domain settings.
+3. Edit the text of your site in the index.html file. Be sure that every opening tag (i.e. ```<div>```) has a closing tag (i.e. ```</div>```). 
 ### Skins
 There are multiple skins. To change out the skin you can swap out the skin css file in between the <head></head> tags in the HTML of both index.html and 404.html. 
 For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray.css">``` with ```<link rel="stylesheet" href="css/skins/red.css">```
