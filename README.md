@@ -14,9 +14,9 @@ For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray
 #### smokygray.css
   ![image](https://user-images.githubusercontent.com/10855941/151377098-e02f84d5-16a8-44d8-b34f-90a656f03b88.png)
 #### clay.css
-![image](https://user-images.githubusercontent.com/10855941/151483927-c8512e88-12f4-4224-937c-3fbd1f147ecf.png)
+![image](https://user-images.githubusercontent.com/10855941/151552552-e0912605-b419-483c-9e16-794c4e9822e9.png)
 #### default (no css skin)
-![image](https://user-images.githubusercontent.com/10855941/151484224-d7693110-0325-463d-abe2-e07a4a4e0872.png)
+![image](https://user-images.githubusercontent.com/10855941/151552709-b665146b-00d5-460d-a048-4cc9fe5ccaca.png)
 
 
 ### About the CV link
