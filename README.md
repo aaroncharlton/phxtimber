@@ -15,6 +15,8 @@ For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray
   ![image](https://user-images.githubusercontent.com/10855941/151377098-e02f84d5-16a8-44d8-b34f-90a656f03b88.png)
 #### clay.css
 ![image](https://user-images.githubusercontent.com/10855941/151483927-c8512e88-12f4-4224-937c-3fbd1f147ecf.png)
+#### default (no css skin)
+![image](https://user-images.githubusercontent.com/10855941/151484167-9f9a9a36-f594-4e96-bdc6-95c4b4734097.png)
 
 ### About the CV link
 You can just link to the Google Doc where you maintain your resume or cv. The link can be configured to <a href="https://eduk8.me/2016/06/link-google-doc-view-pdf-browser/">automatically export the doc as a pdf and download it</a>.
