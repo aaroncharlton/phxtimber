@@ -39,7 +39,7 @@ a:hover {
     margin-right: auto;
     background-color: #f1f2f0d1;
     padding: 50px;
-    box-shadow: 12px 0 15px -4px rgb(132 132 132 / 40%), -12px 0 8px -4px rgb(130 130 130 / 40%);
+    box-shadow: 12px 0 15px -4px rgb(0 0 0 / 40%), -12px 0 8px -4px rgb(0 0 0 / 40%);
 }
 #container p a {
     font-weight: bold;
