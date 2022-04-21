@@ -6,7 +6,7 @@ This simple, one-page website is hosted at <a href="https://aaroncharlton.com/">
 3. Edit the text of your site in the index.html file. Be sure that every opening tag (i.e. ```<div>```) has a closing tag (i.e. ```</div>```). 
 4. Edit the <title> tag contents for both the index and 404 page.
 ### Skins
-There are multiple skins. To change out the skin you can swap out the skin css file in between the <head></head> tags in the HTML of both index.html and 404.html. 
+There are multiple skins. To change out the skin you can swap out the skin css file in between the <head></head> tags in the HTML of index.html. 
 For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray.css">``` with ```<link rel="stylesheet" href="css/skins/red.css">```
 #### red.css
   ![image](https://user-images.githubusercontent.com/10855941/151376934-6048665b-d6eb-48de-b943-754a27c53d06.png)
