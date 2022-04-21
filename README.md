@@ -5,7 +5,7 @@ This simple, one-page website is hosted at <a href="https://aaroncharlton.com/">
 2. Delete my cname file or change it to your custom domain settings. You can also delete my readme.md file.
 3. Edit the text of your site in the index.html file. Be sure that every opening tag (i.e. ```<div>```) has a closing tag (i.e. ```</div>```). 
 4. Edit the <title> tag contents for both the index page.
-5. Change the social media links to your links. You can swap them out with different icons too.
+5. Change the social media links to your links. You can swap them out with different icons too. Note that if you put different icons, you should add them to the "images" folder, then get a link directly to that image within the folder by going to the image and right clicking on it to open the image in a new tab. Then snag that url.
 ### Skins
 There are multiple skins. To change out the skin you can swap out the skin css file in between the <head></head> tags in the HTML of index.html. 
 For example, you can replace ```<link rel="stylesheet" href="css/skins/smokygray.css">``` with ```<link rel="stylesheet" href="css/skins/red.css">```
